@@ -2,6 +2,6 @@
 - OpenCV
 - MediaPipe
 - Pygame
-- Flask
+- flask
 - flask-cors
 - threading
